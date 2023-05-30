@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Stav Bendarsky</h1>
 <h3 align="center">a driven and ambitious DevOps enthusiast from Israel</h3>
 
 <h3 align="left">Languages and Tools:</h3>
