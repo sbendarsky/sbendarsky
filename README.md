@@ -17,6 +17,7 @@
  </a>
 </p>
 
+<!-- About me section -->
 ---
 ### About me
 
@@ -24,6 +25,8 @@
 - 💻 Aspiring to become a DevOps engineer, I'm fueled by curiosity and a strong desire to understand the dynamic relationship between software development and operations.
 
 #
+
+<!-- Skills section -->
 
 ### Languages and Technologies
 
