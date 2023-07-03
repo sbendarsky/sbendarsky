@@ -2,7 +2,6 @@
 <!-- Contact me: sbendarsky@gmail.com -->
 
 <!-- Intro -->
-
 <h3 align="center">
     <samp>&gt; Hey There!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/stav-bendarsky/">Stav Bendarsky</a></b>
@@ -12,7 +11,7 @@
  <a href="https://linkedin.com/in/stav-bendarsky" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sbendarsky"/>
  </a>
- <a href=mailto:sbendarsky@gmail.com target="_blank">
+ <a href="mailto:sbendarsky@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sbendarsky" />
  </a>
 </p>
@@ -31,46 +30,39 @@
 
 ### Languages and Technologies
 
-<a href="https://www.python.org">
+<a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A" alt="Python">
 </a>
-<a href="https://www.java.com">
+<a href="https://www.java.com" target="_blank">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white" alt="Java">
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white" alt="Bash">
 </a>
-<a href="https://www.vim.org">
+<a href="https://www.vim.org" target="_blank">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white" alt="Vim">
 </a>
-<a href="https://www.linux.org">
+<a href="https://www.linux.org" target="_blank">
   <img src="https://img.shields.io/badge/Linux-593D88?style=for-the-badge&labelColor=black&logo=linux&logoColor=white" alt="Linux">
 </a>
-<a href="https://www.github.com">
+<a href="https://www.github.com" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.jenkins.io">
+<a href="https://www.jenkins.io" target="_blank">
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=white" alt="Jenkins">
 </a>
-<a href="https://aws.amazon.com">
+<a href="https://aws.amazon.com" target="_blank">
   <img src="https://img.shields.io/badge/AWS-F0DB4F?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=F0DB4F" alt="AWS">
 </a>
-<a href="https://www.cisco.com">
+<a href="https://www.cisco.com" target="_blank">
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&labelColor=black&logo=cisco&logoColor=white" alt="Cisco">
 </a>
-<a href="https://www.docker.com">
+<a href="https://www.docker.com" target="_blank">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white" alt="Docker">
 </a>
-<a href="https://git-scm.com">
+<a href="https://git-scm.com" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git">
 </a>
-<a href="https://www.mongodb.com">
+<a href="https://www.mongodb.com" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white" alt="MongoDB">
 </a>
-
-
-
-
-
-
-
