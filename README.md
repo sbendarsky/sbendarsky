@@ -22,7 +22,7 @@
 
 - 🎓 I'm a 21 year-old student from Israel, currently attending Ort Singalovski. I'm diving headfirst into the exciting world of programming and exploring various technologies.
 - 💻 Aspiring to become a DevOps engineer, I'm fueled by curiosity and a strong desire to understand the dynamic relationship between software development and operations.
-- ⚡️ Fun Fact: Behind my passion for programming and technology, I'm also a big lover of dogs. In my free time, I enjoy playing video games, reading books and listen to music, and cooking.
+- ⚡️ Fun Fact: Behind my passion for programming and technology, I'm also a big lover of dogs. In my free time, I enjoy playing video games, reading books and listen to music and cooking.
 
 #
 
