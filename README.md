@@ -30,39 +30,41 @@
 
 ### Languages and Technologies
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A" alt="Python">
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white" alt="Java">
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white" alt="Bash">
-</a>
-<a href="https://www.vim.org" target="_blank">
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white" alt="Vim">
-</a>
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-593D88?style=for-the-badge&labelColor=black&logo=linux&logoColor=white" alt="Linux">
-</a>
-<a href="https://www.github.com" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.jenkins.io" target="_blank">
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=white" alt="Jenkins">
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-F0DB4F?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=F0DB4F" alt="AWS">
-</a>
-<a href="https://www.cisco.com" target="_blank">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&labelColor=black&logo=cisco&logoColor=white" alt="Cisco">
-</a>
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white" alt="Docker">
-</a>
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git">
-</a>
-<a href="https://www.mongodb.com" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white" alt="MongoDB">
-</a>
+[![Python][Python]][Python-url]
+[![Java][Java]][Java-url]
+[![Bash][Bash]][Bash-url]
+[![Vim][Vim]][Vim-url]
+[![Linux][Linux]][Linux-url]
+[![Github][Github]][Github-url]
+[![Jenkins][Jenkins]][Jenkins-url]
+[![AWS][AWS]][AWS-url]
+[![Cisco][Cisco]][Cisco-url]
+[![Docker][Docker]][Docker-url]
+[![Git][Git]][Git-url]
+[![MongoDB][MongoDB]][MongoDB-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Python]: https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A
+[Python-url]: https://www.python.org
+[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com
+[Bash]: https://img.shields.io/badge/Bash-000000?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white
+[Bash-url]: https://www.gnu.org/software/bash/
+[Vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&logo=vim&logoColor=white
+[Vim-url]: https://www.vim.org
+[Linux]: https://img.shields.io/badge/Linux-593D88?style=for-the-badge&labelColor=black&logo=linux&logoColor=white
+[Linux-url]: https://www.linux.org
+[Github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white
+[Github-url]: https://www.github.com
+[Jenkins]: https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=white
+[Jenkins-url]: https://www.jenkins.io
+[AWS]: https://img.shields.io/badge/AWS-F0DB4F?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=F0DB4F
+[AWS-url]: https://aws.amazon.com
+[Cisco]: https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&labelColor=black&logo=cisco&logoColor=white
+[Cisco-url]: https://www.cisco.com 
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white
+[Git-url]: https://git-scm.com
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com
