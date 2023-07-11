@@ -42,6 +42,7 @@
 [![Docker][Docker]][Docker-url]
 [![Git][Git]][Git-url]
 [![MongoDB][MongoDB]][MongoDB-url]
+[![MySQL][MySQL]][MySQL-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Python]: https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A
@@ -68,3 +69,5 @@
 [Git-url]: https://git-scm.com
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com
+[MySQL]: https://img.shields.io/badge/mysql-black?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mongodb.com
