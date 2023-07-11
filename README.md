@@ -70,4 +70,4 @@
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com
 [MySQL]: https://img.shields.io/badge/mysql-black?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mongodb.com
+[MySQL-url]: https://www.mysql.com/
