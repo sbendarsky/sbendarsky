@@ -4,7 +4,7 @@
 <!-- Intro -->
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/stav-bendarsky/">Stav Bendarsky</a></b>
+        <b><a target="_blank" href="https://www.sbendarsky.tech">Stav Bendarsky</a></b>
     </samp>
 </h3>
 <p align="center">
